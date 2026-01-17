@@ -1,1 +1,11 @@
-public/index.html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Transporte Escolar</title>
+</head>
+<body>
+  <h1>App Transporte Escolar</h1>
+  <p>Hosting funcionando</p>
+</body>
+</html>
